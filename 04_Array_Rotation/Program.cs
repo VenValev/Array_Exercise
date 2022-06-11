@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace _04_Array_Rotation
 {
