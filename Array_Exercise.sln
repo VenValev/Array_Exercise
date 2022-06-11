@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Zig_Zag_Array", "03_Zig_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Array_Rotation", "04_Array_Rotation\04_Array_Rotation.csproj", "{FA94D1B4-DE17-4C24-9BA7-43B9BA730EBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Top_Integer", "05_Top_Integer\05_Top_Integer.csproj", "{082B168D-DC47-453C-8F39-42E02EE59E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Equal_Sums", "06_Equal_Sums\06_Equal_Sums.csproj", "{2208269E-273B-4253-A77F-C66A535D9201}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{FA94D1B4-DE17-4C24-9BA7-43B9BA730EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA94D1B4-DE17-4C24-9BA7-43B9BA730EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA94D1B4-DE17-4C24-9BA7-43B9BA730EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{082B168D-DC47-453C-8F39-42E02EE59E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{082B168D-DC47-453C-8F39-42E02EE59E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{082B168D-DC47-453C-8F39-42E02EE59E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{082B168D-DC47-453C-8F39-42E02EE59E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2208269E-273B-4253-A77F-C66A535D9201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2208269E-273B-4253-A77F-C66A535D9201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2208269E-273B-4253-A77F-C66A535D9201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2208269E-273B-4253-A77F-C66A535D9201}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
